@@ -11,7 +11,7 @@
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=HackerearthHubNmamit&count_private=true&theme=tokyonight&showicons=true)]()
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HackerearthHubNmamit&theme=tokyonight)
+
 <!--
 **HackerearthHubNmamit/HackerearthHubNmamit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
